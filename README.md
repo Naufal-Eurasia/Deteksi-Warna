@@ -49,7 +49,11 @@ detect_tomato_ripeness(image_path)
 ```
 Penjelasan:
 Input Gambar: Program membaca gambar tomat menggunakan (cv2.imread).
+
 Konversi ke HSV: Warna dideteksi dengan menggunakan HSV.
+
 Mask Warna Merah: Dua rentang warna merah digunakan untuk mendeteksi tomat matang (karena merah memiliki dua wilayah dalam HSV).
+
 Perhitungan Persentase: Program menghitung persentase piksel merah untuk menentukan kematangan tomat dan persentasenya.
-Hasil: Jika proporsi warna merah melebihi ambang batas (misalnya 30%), tomat dianggap matang.
+
+# Hasil: Jika proporsi warna merah melebihi ambang batas (misalnya 30%), tomat dianggap matang.
