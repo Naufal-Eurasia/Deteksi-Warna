@@ -57,3 +57,6 @@ Mask Warna Merah: Dua rentang warna merah digunakan untuk mendeteksi tomat matan
 Perhitungan Persentase: Program menghitung persentase piksel merah untuk menentukan kematangan tomat dan persentasenya.
 
 # Hasil: Jika proporsi warna merah melebihi ambang batas (misalnya 30%), tomat dianggap matang.
+
+![image](https://github.com/user-attachments/assets/32175ac3-62a1-44e0-9886-151e8c647065)
+
